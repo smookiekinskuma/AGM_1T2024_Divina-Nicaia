@@ -5,7 +5,7 @@ using UnityEngine.UIElements;
 
 public class Curve : MonoBehaviour
 {
-    [SerializeField] private Transform p0, p1, p2, p3, p4, p5, p6;
+    [SerializeField] private Transform p1, p2, p3, p4, p5, p6;
     [SerializeField] private Transform p12, p23, p34, p45, p56, p61;
 
     [SerializeField] private float time;
